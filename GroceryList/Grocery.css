@@ -1,0 +1,24 @@
+#button{
+    background-color:lightblue;
+    width: 100px;
+    height: 30px;
+    margin-left: 30px;
+}
+#input{
+    background-color: whitesmoke;
+    border-color: black;
+    border-width: 4px;
+    width: 250px;
+    height: 20px;
+    border-radius: 5px;
+    text-size-adjust: 20px;
+}
+#clear{
+    background-color:lightblue;
+    width: 130px;
+    height: 30px
+}
+.Check{
+    background-color: white;
+    border: 0px;
+}
